@@ -12,7 +12,6 @@
 </p> 
 
 - 🕸️ I'm a Senior Networking Engineer at Microsoft.
-- 🏢 I'm a Software Engineer and Technical Community Manager at Almadrsa
 - 👨‍💻 As a Dev Academy student by Microsoft, I'm constantly learning and exploring new technologies to improve my skills such as (DevOps, C++, C#, OOP, Debugging, Problem Solving).
 - 💬 Ask me about my experience with Networking technologies: Remote Access, File Services, Virtual Networks or anything related.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
